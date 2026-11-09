@@ -1,0 +1,30 @@
+# Versions used for the reported runs (Python 3.10, CUDA 11.6 build of PyTorch, GTX 1650).
+# torch and the torch-* extensions are NOT on plain PyPI in these builds:
+#   pip install torch==1.13.1+cu116 --extra-index-url https://download.pytorch.org/whl/cu116
+#   pip install torch-scatter==2.1.0+pt113cu116 torch-sparse==0.6.15+pt113cu116 torch-cluster==1.6.0+pt113cu116 \
+#       -f https://data.pyg.org/whl/torch-1.13.0+cu116.html
+torch==1.13.1+cu116
+torch-geometric==2.2.0
+torch-scatter==2.1.0+pt113cu116
+torch-sparse==0.6.15+pt113cu116
+torch-cluster==1.6.0+pt113cu116
+nvidia-cusparse-cu11==11.7.4.91     # libcusparse.so.11 for torch-sparse; point LD_LIBRARY_PATH at it (env.sh does)
+numpy==1.23.5
+scipy==1.10.0
+scikit-learn==1.7.2
+networkx==3.4.2
+open3d==0.16.0
+pymeshlab==2022.2.post3
+trimesh==3.20.0
+kornia==0.6.10
+smplx==0.1.28
+opencv-python-headless==4.7.0.68
+pyrender==0.1.45
+pyopengl==3.1.0
+tensorboardx==2.6
+protobuf==3.20.3
+wandb==0.15.0
+setuptools==69.5.1                  # wandb 0.15 imports pkg_resources
+matplotlib==3.10.9                  # tools/make_report_assets.py only
+tqdm
+cython

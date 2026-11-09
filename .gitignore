@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+temp/
+runs/
+data/
+wandb/
+.venv/
+.env
+*.pth
+*.ply
+*.npz
+*.log
+*.o
+*.so
+build/
+utils/render_lib/mesh_core_cython.cpp

@@ -1,0 +1,1200 @@
+Quad Punch.npy
+Standing Arguing (1).npy
+Standing (2).npy
+Left Turn W_Briefcase.npy
+Golf Tee Up.npy
+Stealth Assassination (1).npy
+Fist Pump (4).npy
+Talking At Watercooler.npy
+Ginga Variation 3 (1).npy
+Old Man Idle.npy
+Hell Slammer A.npy
+Fighting Idle.npy
+Look Around (1).npy
+Dancing (4).npy
+Wave Hip Hop Dance (1).npy
+Hit To The Legs.npy
+Mutant Jumping (2).npy
+Armada To Esquiva.npy
+Using A Fax Machine.npy
+Kicking (5).npy
+Sitting Swinging Weapon.npy
+Golf Post Shot.npy
+Gunplay.npy
+Golf Putting Victory.npy
+Jogging.npy
+Harvesting.npy
+Shoulder Rubbing.npy
+Box Idle.npy
+Idle Aiming.npy
+House Dancing (1).npy
+Hit On Side Of Body (1).npy
+Quick Steps.npy
+Golf Chip (3).npy
+Laying (1).npy
+Catwalk Twist R To Twist L (1).npy
+Standing 2H Magic Attack 05.npy
+Goalkeeper Diving Save (1).npy
+Idle (17).npy
+Catwalk Walk Start Turn 180 Right.npy
+Sitting Drinking.npy
+Drinking Fountain.npy
+Ninja Idle (1).npy
+Jazz Dancing (2).npy
+Leg Sweep (1).npy
+Pistol Aim.npy
+Treadmill Running.npy
+Punching Bag.npy
+Tut Hip Hop Dance.npy
+Laying Seizure.npy
+Hit Reaction (3).npy
+Body Jab Cross.npy
+Crouch Torch Idle 02 (1).npy
+House Dancing (2).npy
+Hanging Idle (1).npy
+Catwalk Sequence 01 (1).npy
+Climbing.npy
+Bboy Pose To Idle.npy
+Falling To Roll.npy
+Sitting (6).npy
+Sitting Idle (4).npy
+Sitting (1).npy
+Esquiva 1.npy
+Bboy Hip Hop Move.npy
+Unarmed Grab Torch From Wall.npy
+Bouncing Fight Idle.npy
+Golf Drive Setup (1).npy
+Skateboarding.npy
+Relieved Sigh.npy
+Standing 1H Magic Attack 02.npy
+Standing Jump Running To Run Forward.npy
+Back Squat (2).npy
+Aerial Evade.npy
+Turn To Knocked Unconscious (1).npy
+Plant Tree.npy
+Standing 2H Magic Area Attack 01.npy
+Overhead Squat (2).npy
+Meia Lua De Compasso Back (1).npy
+Aiming Gun.npy
+Rifle Crouch Walk To Kneel.npy
+Headspin Start.npy
+Stumbling (1).npy
+Sword And Shield Slash (1).npy
+Restrain.npy
+Honking Horn.npy
+Box Idle (1).npy
+Golf Putt Victory (1).npy
+Swing Dancing.npy
+Bicep Curl.npy
+Samba Dancing (1).npy
+Corkscrew Evade.npy
+Put Back Rifle (1).npy
+Breathing Idle (1).npy
+Hook Punch.npy
+Catwalk Twist L To Walk 180.npy
+Digging.npy
+Cheering While Sitting (1).npy
+Stall Soccerball (1).npy
+Angry Gesture.npy
+Shove Reaction.npy
+Zombie Agonizing.npy
+Catwalk Twist R To Twist L (2).npy
+Throw Grenade.npy
+Football Stance.npy
+Sumo High Pull (2).npy
+Catwalk Walk Start Turn 180 Left.npy
+Unarmed Idle Looking Ver. 1.npy
+Mutant Right Turn 90.npy
+Aim Pistol.npy
+Two Hand Sword Combo.npy
+Double Leg Takedown - Victim (2).npy
+Sitting (2).npy
+Sitting And Pointing.npy
+Bayonet Stab.npy
+Drinking.npy
+Boxing (4).npy
+Backflip.npy
+Two Handed Sword Death.npy
+Fight Idle.npy
+Pike Walk.npy
+Jumping Down (1).npy
+Talking On Phone.npy
+Being Carried.npy
+Forward Jump.npy
+Breakdance Swipes.npy
+Rummaging.npy
+Rifle Idle (3).npy
+Chicken Dance.npy
+Pushing (1).npy
+Working On Device.npy
+Throw Grenade (1).npy
+Rockin' Shackle B.npy
+Drunk Idle Variation (1).npy
+Crouch Torch Idle 02.npy
+Cautious Backward Walk.npy
+Dancing (2).npy
+Au To Role (1).npy
+Football Hike.npy
+Zombie Idle (1).npy
+Looking Around.npy
+Agreeing.npy
+Watering.npy
+Start Walking.npy
+Change Direction.npy
+Knife Idle.npy
+Soccer Header.npy
+Box Jump.npy
+Crawling Backwards (1).npy
+Jumping Down (2).npy
+Jump To Freehang.npy
+Crouch Idle.npy
+Ginga Variation 3.npy
+Kiss (4).npy
+Talking (5).npy
+Look Over Shoulder.npy
+Standard Idle.npy
+Knocked Out.npy
+Pointing (1).npy
+Closing.npy
+Being Carried (2).npy
+Sitting Angry (2).npy
+Aiming Gun (1).npy
+Start Climbing Ladder.npy
+Pull Plant.npy
+Flying Back Death.npy
+Praying.npy
+Grab Rifle And Put Back.npy
+Illegal Knee (1).npy
+Running Jump (1).npy
+Knocked Down (1).npy
+Texting (1).npy
+Looking.npy
+Mutant Idle.npy
+Receiving Cpr.npy
+Idle Transition.npy
+Standing Death Left 02 (1).npy
+Sword And Shield Casting.npy
+Rifle Shielding Face.npy
+Boxing (1).npy
+Standing React Death Right.npy
+Dig And Plant Seeds.npy
+Crouch Stop Walking.npy
+180 Turn W_ Briefcase.npy
+Jumping Down (9).npy
+Wall Run.npy
+Sitting Angry.npy
+Zombie Stumbling.npy
+Crouch Walk.npy
+Walking (12).npy
+Angry Point.npy
+Sitting Disbelief (1).npy
+Jumping (9).npy
+Hit Reaction (7).npy
+Snatch (1).npy
+Stand Up (1).npy
+Batter On Deck.npy
+Dodge While Sitting.npy
+Lifting.npy
+Thoughtful Head Shake.npy
+Climbing Down (2).npy
+Military Signaling.npy
+Hook (5).npy
+Breakdance Ready.npy
+Low Crawl.npy
+Swimming.npy
+Standing Yell (1).npy
+Baseball Walk In.npy
+Golf Drive (2).npy
+Grab Rifle From The Side.npy
+Thankful.npy
+Mutant Idle (1).npy
+Upward Rifle Butt Strike.npy
+Using A Filing Cabinet.npy
+Guitar Playing (1).npy
+Push Stop.npy
+Swing To Land (1).npy
+Snake Hip Hop Dance.npy
+Walking (4).npy
+Idle (15).npy
+Standing 1H Magic Attack 01.npy
+Singing.npy
+Bartending.npy
+Illegal Elbow Punch (2).npy
+Sword And Shield Casting (1).npy
+Military Signaling (1).npy
+Yawn.npy
+Kip Up.npy
+Golf Chip (1).npy
+Standing Melee Attack 360 High.npy
+Grabbing Pistol.npy
+Zombie Attack (1).npy
+Situp To Idle.npy
+Meia Lua De Compasso Back.npy
+Walk In Circle.npy
+Hit On Back Of Head.npy
+Sitting (5).npy
+Great Sword Idle.npy
+Breakdance Freeze Var 3 (1).npy
+Goalkeeper Placing Ball.npy
+Great Sword Slash.npy
+Swing Dancing (3).npy
+Shoved.npy
+Golf Drive (4).npy
+Mutant Jump Attack.npy
+Standing Idle Looking Ver. 1.npy
+Standing Fist Pump (1).npy
+Jumping Over Into Combat.npy
+Helping Out.npy
+Inverted Double Kick To Kip Up.npy
+Looking Down.npy
+Quarterback Pass.npy
+Superhuman Choke Lift.npy
+Cards (1).npy
+Cheering While Sitting (2).npy
+Punch To Elbow Combo.npy
+Standing Torch Inspect Forward (1).npy
+Zombie Death.npy
+Lower Pistol.npy
+Zombie Dying.npy
+Illegal Headbutt (1).npy
+Boxing (2).npy
+Female Peek And Aim (1).npy
+Idle (3).npy
+Standing Thumbs Up.npy
+Stunned.npy
+Throw.npy
+Excited.npy
+Crouch To Stand (1).npy
+Sword And Shield Attack (2).npy
+Injured Hurting Idle.npy
+Double Leg Takedown - Attacker (1).npy
+Being Cocky.npy
+Magic Heal.npy
+Dancing (3).npy
+Rifle Death.npy
+Drunk Walking Turn.npy
+Start Plank.npy
+Outward Block.npy
+Standing 2H Cast Spell 01.npy
+Getting Hit.npy
+Reload (3).npy
+Standing Torch Idle 03.npy
+Jazz Dancing.npy
+Knocked Down.npy
+Standing Aim Idle 01.npy
+Rifle Walk To Stop.npy
+Breakdance Freeze Var 4.npy
+Chapa Giratoria 2.npy
+Catwalk Walk Turn 180 Tight L.npy
+Sitting Angry (3).npy
+Pointing Forward.npy
+Falling (2).npy
+Breakdance Ready (1).npy
+Swagger Walk.npy
+Catwalk Sequence 04.npy
+Taking Punch.npy
+Wheelbarrow Dump.npy
+Happy Idle.npy
+Martelo Do Chau.npy
+Football Catch (1).npy
+Free Hang Hop Right.npy
+Golf Pre-Putt.npy
+Golf Drive (1).npy
+Kneeling Inspecting.npy
+Carrying Turn.npy
+Standing 2H Magic Attack 03 (1).npy
+Catwalk Walk Forward Turn 90L (1).npy
+Stylish Flip.npy
+Standing 2H Magic Attack 03.npy
+Walking (3).npy
+Salsa Dancing.npy
+Kneeling Pointing.npy
+Breakdance Footwork 1.npy
+Breakdance Freezes.npy
+Mutant Flexing Muscles.npy
+Cheering While Sitting (3).npy
+Mutant Dying.npy
+Idle (11).npy
+Header Soccerball (2).npy
+Throwing.npy
+Step Hip Hop Dance.npy
+Great Sword Idle (2).npy
+Firing Rifle (5).npy
+Sit To Stand.npy
+Dying (3).npy
+Standing Torch Idle 01 (1).npy
+Standing Torch Light Torch.npy
+Idle.npy
+Stable Sword Outward Slash.npy
+Kicking (3).npy
+Taking Cover.npy
+Hit Reaction (2).npy
+Standing Death Backward 01 (2).npy
+Grabbing Ammo.npy
+Standing Arguing.npy
+Sword And Shield Death.npy
+Turn To Knocked Unconscious.npy
+Standing 2H Magic Attack 02.npy
+Spit Reaction.npy
+Warrior Idle.npy
+Jumping Down (11).npy
+Cow Milking.npy
+Laying (2).npy
+Piano Playing (1).npy
+Stall Soccerball.npy
+Zombie Scratch Idle.npy
+Standing Torch Walk Forward Stop Edge.npy
+Grab And Slam.npy
+Sumo High Pull.npy
+Put Back Rifle Behind Shoulder.npy
+Dying (6).npy
+Breakdance Ending 2.npy
+Swing Into Wall.npy
+Brutal Assassination (2).npy
+Sword And Shield Crouch Idle (1).npy
+Running Tired.npy
+Rifle Jump.npy
+Fist Fight A.npy
+Roll Kicking.npy
+Jumping Out Of A Plane.npy
+Sitting Clap (1).npy
+Golf Chip (5).npy
+Samba Dancing (6).npy
+Jumping Down (12).npy
+Defeated.npy
+Bashful.npy
+Overhead Squat (3).npy
+Hit On Side Of Head.npy
+Boxing (10).npy
+Getting Smashed.npy
+Entry.npy
+Kettlebell Swing (2).npy
+Defeat (1).npy
+Turning Right 90 Degrees.npy
+Stable Sword Inward Slash.npy
+Great Sword Idle (5).npy
+Left Strafing Jump.npy
+Piloting.npy
+Talking Phone Pacing.npy
+Belly Dance.npy
+Breakdance Uprock To Ground.npy
+Searching Files High.npy
+Idle Crouching Aiming.npy
+Standing.npy
+Surprise Uppercut (2).npy
+2hand Idle.npy
+Catwalk Walk Turn 180 Wide R.npy
+Patting (1).npy
+Slipping.npy
+Illegal Elbow Punch.npy
+Taunt (1).npy
+Kiss (2).npy
+Holding Idle.npy
+Front Raises (1).npy
+Standing Clap (2).npy
+Standing 1H Cast Spell 01.npy
+Reload (1).npy
+Zombie Idle.npy
+Goalkeeper Body Block (2).npy
+Body Jab Cross (1).npy
+Catwalk Sequence 02.npy
+Standing Death Forward 01.npy
+Sitting Idle (3).npy
+Kick To The Groin (1).npy
+Jumping Down (5).npy
+Defender.npy
+Fist Fight B.npy
+Jumping Down (6).npy
+Front Raises.npy
+Rumba Dancing.npy
+Hook (1).npy
+Zombie Headbutt.npy
+Pull Pilot From Seat.npy
+Sitting Clap (3).npy
+Removing Driver.npy
+Weight Shift.npy
+Golf Putt Failure.npy
+Baseball Strike.npy
+Rifle Run To Dying.npy
+Swing Dancing (2).npy
+Catwalk Walk Turn 180 Tight R.npy
+Sword Fight One.npy
+Pushing.npy
+Goalie Throw.npy
+Injured Idle.npy
+Hip Hop Dancing (12).npy
+Writhing In Pain.npy
+Running To Stop.npy
+Breakdance Uprock (2).npy
+Calling.npy
+Boxing (8).npy
+Dwarf Idle.npy
+Goalkeeper Diving Save.npy
+Standing Idle (2).npy
+Boxing (7).npy
+Kettlebell Swing (1).npy
+Breakdance Uprock Var 1 (1).npy
+Catwalk Walk Start Backwards 180L.npy
+Defender (2).npy
+Talking (4).npy
+Standing Melee Attack Downward.npy
+Picking Up Object.npy
+Fist Pump (2).npy
+Catwalk Sequence 03.npy
+Goalkeeper Directing (1).npy
+Macaco Side.npy
+Catwalk Idle 02.npy
+Drop Kick.npy
+Catwalk Walk Forward Turn 90R.npy
+Breakdance 1990.npy
+Golf Bad Shot.npy
+Neck Stretching.npy
+Pointing.npy
+Hit To Side Of Body.npy
+Capoeira.npy
+Goalkeeper Body Block (1).npy
+Sitting Idle.npy
+Catwalk Sequence 05.npy
+Stop Walking With Rifle.npy
+Strangling.npy
+Pike Walk (1).npy
+Opening.npy
+Headbutt.npy
+Injured Wave Idle.npy
+Standing Clap.npy
+Standing Torch Burn Webs.npy
+Fireball.npy
+Northern Soul Dance.npy
+Fist Pump (3).npy
+Goalkeeper Scoop.npy
+Release Hostage - Villain.npy
+Pushing (2).npy
+Baseball Step In.npy
+Unarmed Jump.npy
+Mutant Swiping.npy
+Laying Idle (1).npy
+Rifle Idle (1).npy
+Pulled From Seat.npy
+Boxing (6).npy
+Sitting.npy
+Lying Down.npy
+Zombie Punching (2).npy
+Hip Hop Dancing (4).npy
+Backflip (1).npy
+Quick Informal Bow.npy
+Falling Forward Death.npy
+Sad Idle (2).npy
+Jab To Elbow Punch.npy
+Standing Torch Melee Attack 05.npy
+Knock Off Assailant (1).npy
+Baseball Step Up To Bat.npy
+Angry.npy
+Yelling.npy
+Soccer Tackle (3).npy
+Crouch Death.npy
+Military Signaling (3).npy
+Moving Object.npy
+Jumping (10).npy
+Searching Pockets.npy
+Flip Kick (1).npy
+Standing Torch Melee Attack 02.npy
+Stand Cover To Look.npy
+Baseball Hit (2).npy
+Hanging.npy
+Sitting Talking.npy
+Baseball Hit.npy
+Jumping (1).npy
+Talking (2).npy
+Golf Tee Up (1).npy
+Standing Idle Looking Ver. 2.npy
+Rifle Crouch Turn (5).npy
+Double Leg Takedown - Victim.npy
+Sitting Clap (5).npy
+Baseball Milling Idle.npy
+Standing Torch Inspect Upward.npy
+Brooklyn Uprock.npy
+Dancing (1).npy
+Standing Melee Combo Attack Ver. 3.npy
+Surprise Uppercut.npy
+Plant A Plant.npy
+Hanging Idle.npy
+Sitting Clap (2).npy
+Football Catch.npy
+Double Leg Takedown - Victim (1).npy
+Swagger Walk (1).npy
+Paddling.npy
+Mutant Right Turn 90 (1).npy
+Start Walking (4).npy
+Pistol Idle.npy
+Yelling While Standing (1).npy
+Hip Hop Dancing (3).npy
+Baseball Pitching.npy
+Insult.npy
+Victory (1).npy
+Administering Cpr.npy
+Talking (6).npy
+Standing Greeting.npy
+Thriller Part 3.npy
+Sitting Talking (1).npy
+Thriller Part 4.npy
+Receiving A Big Uppercut.npy
+Dismissing Gesture.npy
+Catwalk Walk Start Turn 180 Right (1).npy
+Unarmed Grab Torch From Floor.npy
+Angry Gesture (1).npy
+Prone Idle.npy
+Patting.npy
+Climbing Down.npy
+Beckoning.npy
+Cheering While Sitting.npy
+Rifle Backward Walk To Stop.npy
+Header Soccerball (1).npy
+Hand Raising.npy
+Death From The Back.npy
+Baseball Umpire.npy
+Fist Pump (5).npy
+Walking While Texting.npy
+Hit Reaction (1).npy
+Catwalk Walk Turn 180 Tight.npy
+Kiss (3).npy
+Zombie Transition.npy
+Sitting Dazed.npy
+Stand Up.npy
+Shooting Gun.npy
+Head Nod Yes.npy
+Defeat.npy
+Ginga Variation 2.npy
+Troca 1.npy
+Esquiva 1 (1).npy
+Idle (6).npy
+Golf Putt Victory.npy
+Run And Throw Grenade.npy
+Golf Tee Up (2).npy
+Crossleg Freeze.npy
+Rifle Idle (4).npy
+Idle (1).npy
+Kick To The Groin (2).npy
+Rifle Aiming Idle.npy
+Climbing A Rope (1).npy
+Sitting Clap.npy
+Kiss.npy
+Kicking (4).npy
+Breakdance Footwork To Idle.npy
+Slash Advance.npy
+Putting Down.npy
+Cover Idle.npy
+Meia Lua De Frente (1).npy
+Falling Into Pool (1).npy
+Salsa Dancing (2).npy
+Standing Torch Light Torch From Wall.npy
+Sword And Shield Idle.npy
+Terrified.npy
+Rockin' Shackle A.npy
+Falling Back Death (1).npy
+Nervously Look Around.npy
+Kiss (1).npy
+Sitting Yell (1).npy
+Jumping (11).npy
+Dual Weapon Combo.npy
+Standing Cheering.npy
+Swimming To Edge.npy
+Rope Swinging.npy
+Dice Idle.npy
+Standing Torch Inspect Forward.npy
+Samba Dancing (2).npy
+Hit On Side Of Head (1).npy
+Idle (7).npy
+Taunt.npy
+Dropping.npy
+Running To Turn.npy
+Put Back Rifle (2).npy
+Hostage Situation Idle - Villain.npy
+Two Hand Club Combo.npy
+Reloading (1).npy
+Standing Block Idle (1).npy
+Treading Water.npy
+Breakdance Uprock (1).npy
+Samba Dancing.npy
+Closing A Lid.npy
+Leaning (1).npy
+Grab Rifle From Back.npy
+Start Walking Backwards.npy
+Climbing (1).npy
+Standing Jump.npy
+Scary Clown Stopping (1).npy
+Goalkeeper Idle (1).npy
+Sitting Yell (4).npy
+Reaching Down.npy
+Overhead Squat (1).npy
+Hip Hop Dancing (8).npy
+Great Sword Idle (6).npy
+Climbing (3).npy
+Taunt (4).npy
+Thriller Part 2.npy
+Female Tough Walk.npy
+Catwalk Walk Forward Arc 90R (1).npy
+Northern Soul Floor Combo.npy
+Zombie Kicking.npy
+Standing (1).npy
+Catwalk Walk Forward Turn 90L.npy
+Stumble Backwards.npy
+Rallying.npy
+Jumping (8).npy
+Prone Forward.npy
+Frisbee Throw.npy
+Grenade Throw (1).npy
+Standing Death Backward 01.npy
+Thoughtful Head Nod.npy
+Taking Cover Idle.npy
+Prone Roll.npy
+Rejected.npy
+Stop Walking.npy
+Pistol Kneeling Idle.npy
+Knee Kick Lead.npy
+Teeter (1).npy
+Breakdance Uprock Var 1 End.npy
+Opening Door Inwards.npy
+Standing Torch Melee Attack 05 (1).npy
+Standing Torch Light Torch From Fire.npy
+Being Carried (1).npy
+Jumping Down (4).npy
+Sleeping Idle (1).npy
+Northern Soul Floor Spin (1).npy
+Ninja Idle.npy
+Running Dive Roll (1).npy
+Stumbling.npy
+Two Handed Sword Death (1).npy
+Chapaeu De Couro.npy
+Standing Melee Run Jump Attack.npy
+Standing Torch Walk Forward Stop Edge (1).npy
+Female Peek And Aim.npy
+Illegal Elbow Punch (1).npy
+Shaking Hands 1.npy
+Great Sword Power Up.npy
+Salsa Dancing (3).npy
+Entry (1).npy
+Smoking.npy
+Zombie Idle (4).npy
+Zombie Neck Bite (1).npy
+Annoyed Head Shake.npy
+Crouch Idle 02 Looking Around.npy
+Shuffling.npy
+Jog In Circle.npy
+Lifting (1).npy
+Esquiva 5.npy
+Stealth Assassination.npy
+Ymca Dance.npy
+Exiting Car.npy
+Prone Reloading.npy
+Hiding Grab.npy
+Catwalk Walk Stop Twist L.npy
+End Plank.npy
+Climbing Down (1).npy
+Great Sword Idle (3).npy
+Playing Drums.npy
+Strafe Right Stop.npy
+Thinking.npy
+Standing Aim Overdraw (1).npy
+Push Up To Idle.npy
+Falling.npy
+Catwalk Walk Forward Arc 90R.npy
+Goalkeeper Body Block.npy
+Zombie Neck Bite.npy
+Silly Dancing.npy
+Fighting Idle (1).npy
+Samba Dancing (4).npy
+Standing Idle 02 Looking.npy
+Sarcastic Head Nod.npy
+Walking (2).npy
+Laying Moaning.npy
+Great Sword Idle (7).npy
+Zombie Idle (3).npy
+Hip Hop Dancing (7).npy
+Burpee.npy
+Swing To Land (2).npy
+Bboy Uprock.npy
+Roll Left.npy
+Rapping.npy
+Freehang Climb.npy
+Military Signaling (4).npy
+Salute.npy
+Rasteira 2.npy
+Climbing A Rope.npy
+Breakdance 1990 (1).npy
+Goalkeeper Pass.npy
+Cross Jumps Rotation (1).npy
+Wobbling.npy
+Shoulder Rubbing (1).npy
+Fight Idle (1).npy
+Crawling Backwards.npy
+Idle (16).npy
+Zombie Scream.npy
+Macarena Dance.npy
+Thrust Slash.npy
+Run And Swing.npy
+Yelling While Standing.npy
+Smash.npy
+Standing Death Left 01.npy
+Sword And Shield Idle (1).npy
+Can Can.npy
+Standing Taunt Chest Thump.npy
+Standing Idle 03 Examine.npy
+Dancing.npy
+Punch Combo.npy
+No.npy
+Cheering.npy
+Typing.npy
+Laying Idle (2).npy
+Shaking Hands 2.npy
+Standing Clap (3).npy
+Standing 2H Magic Area Attack 01 (1).npy
+Jump Over.npy
+Gathering Objects.npy
+Look Around.npy
+Waving.npy
+Goalkeeper Catch (2).npy
+Mutant Breathing Idle.npy
+Warming Up.npy
+Big Jump.npy
+Hip Hop Dancing (10).npy
+Spin Flip Kick.npy
+Au To Role.npy
+Sitting Weapon Grab.npy
+Dwarf Idle (3).npy
+Throw Object.npy
+Butterfly Twirl.npy
+Swinging.npy
+Uppercut Jab.npy
+Hip Hop Dancing (5).npy
+Death From The Front.npy
+Happy.npy
+Tender Placement.npy
+Death From Back Headshot (1).npy
+Golf Drive Setup.npy
+Queshada 1.npy
+Bboy Hip Hop Move (1).npy
+Catwalk Idle Twist L (1).npy
+Standing 2H Magic Attack 04.npy
+Golf Drive.npy
+Tender Placement (1).npy
+Back Squat.npy
+Talking (3).npy
+Defender (1).npy
+Walking To Dying.npy
+Put Back Rifle.npy
+Opening (1).npy
+Idle To Situp.npy
+Standing Torch Idle 01.npy
+Getting Smashed (1).npy
+Zombie Idle (5).npy
+Tripping (1).npy
+Happy Hand Gesture (1).npy
+Falling Back Death.npy
+Breakdance Uprock.npy
+Standing React Death Forward.npy
+Jumping Down.npy
+Idle (14).npy
+Soccer Tackle (2).npy
+Crouching Idle.npy
+Rifle Pull Out.npy
+Happy Hand Gesture.npy
+Rifle Put Away.npy
+Inside Crescent Kick.npy
+Dancing (5).npy
+Grenade Throw.npy
+Kneeling Idle.npy
+Grab Rifle From The Side And Put Back.npy
+Arm Stretching.npy
+Toss Grenade.npy
+Standing React Death Left.npy
+Catwalk Walk Stop Twist R.npy
+Relieved Sigh (1).npy
+Ginga Sideways To Au.npy
+Picking Up.npy
+Taken Hostage - Victim.npy
+Mma Idle.npy
+Taunt (3).npy
+Flying Shoulder Throw.npy
+Illegal Knee.npy
+Standing Clap (4).npy
+Standing Idle 03.npy
+Unarmed Equip Torch 02 (1).npy
+Talking (1).npy
+Hit On Legs.npy
+Searching Files High (1).npy
+Injured Stumble Idle.npy
+Corkscrew Kip Up.npy
+Hip Hop Dancing (13).npy
+Plank.npy
+Illegal Headbutt.npy
+Catwalk Idle.npy
+Standing Death Left 01 (1).npy
+Idle (12).npy
+Dying (1).npy
+Getting Hit Backwards.npy
+Sitting Yell (3).npy
+Tripping.npy
+Sitting Disbelief.npy
+Dive Roll.npy
+Walking To Dying (1).npy
+Scary Clown Stopping.npy
+Opening A Filing Cabinet.npy
+Crouch Walk (1).npy
+Golf Drive (5).npy
+Sitting Thumbs Up.npy
+Kicking.npy
+Pick Fruit (2).npy
+Knee Jab.npy
+Climbing (4).npy
+Golf Bad Shot (1).npy
+Orc Idle.npy
+Zombie Biting.npy
+Catwalk Walk Forward Arc 90L.npy
+Golf Pre-Putt (1).npy
+Crouch Look Around Corner.npy
+Climbing (5).npy
+Shaking It Off.npy
+Injured Jog.npy
+Falling Down.npy
+Cover Idle (1).npy
+Salsa Dancing (6).npy
+Burpee (1).npy
+180 Turn W_ Briefcase (1).npy
+Landing.npy
+Walking (9).npy
+Start Bicycle Sit Up.npy
+Quick Formal Bow.npy
+Sitting (4).npy
+Golf Putt Failure (1).npy
+Gangnam Style.npy
+Kick To The Groin.npy
+Catwalk Walk Turn 180 Wide.npy
+Gaming.npy
+Honking Horn (1).npy
+Getting Up (4).npy
+Banging Fist.npy
+Cross Jumps Rotation.npy
+Dodging (1).npy
+Catwalk Walk.npy
+Getting Up (5).npy
+Surprised.npy
+Standing Block Idle.npy
+Talking.npy
+Agreeing (1).npy
+Administering Cpr (1).npy
+One Hand Club Combo.npy
+Idle (10).npy
+Gunplay (3).npy
+Rifle Idle To Crouch.npy
+Catwalk Sequence 04 (1).npy
+Idle (13).npy
+Getting Up (2).npy
+Baseball Catcher.npy
+Carrying Turn (1).npy
+Sitting Angry (1).npy
+Run To Flip (1).npy
+Pilot Flips Switches (1).npy
+Neutral Idle.npy
+Jumping Down (8).npy
+Sitting Dodges.npy
+Getting Thrown.npy
+Reloading.npy
+Samba Dancing (5).npy
+Climbing (2).npy
+Drop To Freehang.npy
+Run To Rolling.npy
+Walk To Stop.npy
+Stand.npy
+Golf Putt (3).npy
+Hit Reaction (5).npy
+Crouch To Stand.npy
+Sword And Shield Attack (3).npy
+Sad Idle.npy
+Northern Soul Spin (1).npy
+Jostled Passenger.npy
+Arm Gesture.npy
+Playing The Violin.npy
+Climbing To Top.npy
+Unarmed Idle 01 (1).npy
+Standing Using Touchscreen Tablet.npy
+Sitting Rubbing Arm (1).npy
+Hard Landing.npy
+Texting While Standing.npy
+Big Body Blow.npy
+Roar.npy
+Pistol Idle (1).npy
+Esquiva 3.npy
+Rifle Idle (2).npy
+Open Door Outwards.npy
+Button Pushing.npy
+Standing Idle 01.npy
+Robot Hip Hop Dance.npy
+Death.npy
+Edge Slip.npy
+Jazz Dancing (1).npy
+Spin In Place.npy
+Breakdance Freeze Var 2.npy
+Hit To Head.npy
+Vault Over Box.npy
+Finding.npy
+House Dancing.npy
+Unarmed Grab Torch From Floor (1).npy
+Catwalk Idle Twist R.npy
+Salsa Dancing (4).npy
+Crouch Idle 01.npy
+Laying Idle.npy
+Goalkeeper Catch (1).npy
+Sending Fax.npy
+Breakdance Uprock Var 1.npy
+Jump Down (2).npy
+Knocked Unconscious.npy
+Kneeling.npy
+Soccer Idle.npy
+Taken Hostage - Villain.npy
+Goalkeeper Directing.npy
+Standing Torch Melee Attack 04.npy
+Petting Animal.npy
+Jumping Down (7).npy
+Snake Hip Hop Dance (1).npy
+Hip Hop Dancing (2).npy
+Backflip (2).npy
+Breathing Idle.npy
+Looking Around (1).npy
+Standing Death Backward 01 (1).npy
+Scissor Kick.npy
+Running.npy
+Standing 1H Magic Attack 03.npy
+Shoved Reaction With Spin.npy
+Sad Idle (1).npy
+Pistol.npy
+Dying (8).npy
+Agony.npy
+Catwalk Walk Turn 180 Wide L.npy
+Idle (4).npy
+Writing.npy
+Sitting Gun Motion.npy
+Hip Hop Dancing (14).npy
+Salsa Dancing (7).npy
+Golf Post-Swing.npy
+Walking (15).npy
+Crawl Backwards.npy
+Yelling While Standing (2).npy
+Ninja Idle (2).npy
+Magic Spell Casting.npy
+Walking (13).npy
+Goalkeeper Drop Kick.npy
+Zombie Crawl.npy
+Kneel.npy
+Unarmed Equip Torch 02.npy
+Standing React Death Right (1).npy
+Leg Sweep.npy
+Kneeling Down.npy
+Golf Drive (6).npy
+Pull Plant (1).npy
+Gunplay (2).npy
+Hook.npy
+Golf Chip.npy
+Jazz Dancing (3).npy
+Martelo Do Chau Sem Mao.npy
+Wall Crash.npy
+Brutal Assassination (1).npy
+Evading A Threat.npy
+Hit On Side Of Body.npy
+Shaking Dice.npy
+Getting Up.npy
+Pilot Flips Switches.npy
+Jumping Down (13).npy
+Great Sword Idle (1).npy
+Livershot Knockdown.npy
+Standing Aim Idle 01 (1).npy
+Pick Fruit.npy
+Rifle Block.npy
+Dodging Back.npy
+Texting And Walking.npy
+Headspin End.npy
+Slide Hip Hop Dance.npy
+Entering Car.npy
+Bartending (1).npy
+Zombie Idle (2).npy
+Sword And Shield Idle (2).npy
+Goalie Throw (1).npy
+Talking On A Cell Phone.npy
+Hit On The Back.npy
+Threatening.npy
+Standing Idle Looking Ver. 2 (1).npy
+Hip Hop Dancing.npy
+Skinning Test.npy
+Crouching.npy
+Leaning.npy
+Standing Melee Combo Attack Ver. 2.npy
+Pouting (1).npy
+Catwalk Sequence 02 (1).npy
+Standing Aim Idle 02 Looking.npy
+Jumping (2).npy
+Standing Aim Overdraw.npy
+Shove Reaction (1).npy
+Catwalk Sequence 05 (1).npy
+Northern Soul Spin Combo.npy
+Jump Attack.npy
+Breakdance Ending 1.npy
+Shooting Pistol.npy
+Start Walking (3).npy
+Breakdance Footwork To Freeze.npy
+Catwalk Twist R To Walk 180.npy
+Shooting Arrow.npy
+Standing Idle 01 (1).npy
+Crouch To Stand (2).npy
+Hip Hop Dancing (11).npy
+Thriller Part 1.npy
+Flip Kick.npy
+Standing Yell.npy
+Booty Hip Hop Dance.npy
+Back Squat (1).npy
+Breakdance Ending 1 (1).npy
+Yelling Out.npy
+Run To Flip.npy
+Look Away Gesture.npy
+Jump (3).npy
+Push Start.npy
+Standing React Death Backward.npy
+Northern Soul Spin.npy
+Samba Dancing (3).npy
+Sword And Shield Crouch Idle.npy
+Victory.npy
+Sitting Idle (2).npy
+Snatch (2).npy
+Standing Fist Pump.npy
+Catwalk Idle 01.npy
+Breakdance Freeze Var 1.npy
+Capoeira (1).npy
+Surprise Uppercut (1).npy
+Dive Roll (2).npy
+Goalkeeper Overhand Throw.npy
+Standing Torch Idle 04.npy
+Dying.npy
+Dive Roll (1).npy
+Standing Torch Melee Attack Stab.npy
+Zombie Punching (1).npy
+Rifle Crouch Walk To Idle (1).npy
+Reload.npy
+Sitting Clap (4).npy
+Drunk Idle.npy
+Seated Idle.npy
+Sitting Weapon Strike.npy
+Situps.npy
+Rifle Crouch Turn (4).npy
+Stand To Sit.npy
+Helping Out (1).npy
+Ginga Sideways 2.npy
+Getting Up (3).npy
+Standing Clap (1).npy
+Laying.npy
+Idle (5).npy
+Sitting Yell (2).npy
+Crouch Look Around Corner (1).npy
+Grab Rifle From Behind Shoulder.npy
+Front Twist Flip.npy
+Sitting Rubbing Arm.npy
+Fist Pump.npy
+Running Dive Roll.npy
+Roundhouse Kick.npy
+Catwalk Twist L To Twist R.npy
+Soccer Tackle (1).npy
+Golf Putt.npy
+Petting.npy
+Rifle Punch.npy
+Piano Playing.npy
+Rifle Idle (5).npy
+Circle Crunch.npy
+Block.npy
+Brutal Assassination.npy
+Checking Dice.npy
+Standing Idle 04.npy
+Being Strangled.npy
+Dying (5).npy
+Zombie Attack.npy
+Pulling Lever.npy
+Standing Jump (4).npy
+Boxing (9).npy
+Shake Fist.npy
+Hands Forward Gesture.npy
+Looking (1).npy
+Falling Into Pool (2).npy
+Golf Putt Victory (2).npy
+Getting Up (1).npy
+Cocky Head Turn.npy
+Goalkeeper Idle.npy
+Standing Melee Combo Attack Ver. 1.npy
+Jumping (7).npy
+Fishing Cast.npy
+Telling A Secret.npy
+Jazz Dancing (4).npy
+Drunk Idle Variation (2).npy
+Receiver Catch.npy
+Hell Slammer B.npy
+Crying.npy
+Sleeping Idle.npy
+Idle (2).npy
+Jumping.npy
+Breakdance Freeze Var 3.npy
+Grab And Put Back Rifle.npy
+Opening A Lid.npy
+Standing Up.npy
+Emerging.npy
+Dying (7).npy
+Receive Soccerball.npy
+Catwalk Walk Forward Arc 90L (1).npy
+Floating.npy
+Guitar Playing.npy
+Zombie Dying (1).npy
+Salsa Dancing (1).npy
+Spat In Face.npy
+Catwalk Idle Twist L.npy
+Two Hand Spell Casting.npy
+Rifle Crouch Walk To Idle.npy
+Hokey Pokey (1).npy
+Reload (2).npy
+Standing Torch Idle 02.npy
+Reacting.npy
+Esquiva 5 (1).npy
+Ninja Idle (3).npy
+Grenade Throw (2).npy
+Jumping Down (3).npy
+Salsa Dancing (5).npy
+Walk In Circle (1).npy
+Sitting Laughing.npy
+Hip Hop Dancing (1).npy
+Ginga Variation 1.npy
+Elbow Uppercut Combo.npy
+Crouch Stop Walking (1).npy
+Sprint To Backslide.npy
+Loser.npy
+One Hand Sword Combo.npy
+Run Look Back.npy
+Golf Bad Shot (2).npy
+Idle (9).npy
+Boxing (3).npy
+Sitting Idle (1).npy
+Au.npy
+Catwalk Idle To Twist R.npy
+Free Hang Hop Left.npy
+Falling Into Pool.npy
+Throwing (1).npy
+Swatting Bugs.npy
+Catwalk Sequence 01.npy
+Getting Bit.npy
+Look Around (2).npy
+Death From Back Headshot.npy
+Great Sword Casting.npy
+Cards.npy
+Stall Soccerball (2).npy
+Golf Post-Swing (1).npy
+Fist Pump (1).npy
+Dying Backwards.npy
+Entry (2).npy
+Standing Death Forward 02.npy
+Sumo High Pull (1).npy
+Jumping (6).npy
+Counting.npy
+Jump.npy
+Driving.npy

@@ -1,0 +1,10 @@
+Ch14_nonPBR,Ch36_nonPBR,22
+Ch36_nonPBR,kachujin_g_rosales,30
+kachujin_g_rosales,Ch11_nonPBR,10
+ganfaul_m_aure,warrok_w_kurniawan,20
+warrok_w_kurniawan,kachujin_g_rosales,15
+ely_k_atienza,prisoner_b_styperek,60
+survivor_a_lusth,Ch44_nonPBR,54
+castle_guard_01,kachujin_g_rosales,43
+Ch30_nonPBR,Ch12_nonPBR,50
+whiteclown_n_hallin,Ch30_nonPBR,36

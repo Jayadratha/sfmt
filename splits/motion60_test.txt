@@ -1,0 +1,64 @@
+Release Hostage - Hostage.npy
+Falling (1).npy
+Combo Punch.npy
+Zombie Stand Up (1).npy
+Falling From Losing Balance.npy
+Right Turn W_ Briefcase.npy
+Kicking (1).npy
+Double Leg Takedown - Attacker.npy
+Baseball Step Out.npy
+Golf Putt (2).npy
+Jumping Rope.npy
+Sword Fight One (1).npy
+Hip Hop Dancing (6).npy
+Standing Death Forward 02 (1).npy
+Dying (2).npy
+Hip Hop Dancing (9).npy
+Throw In.npy
+Military Signaling (2).npy
+Standing W_Briefcase Idle.npy
+Boxing (5).npy
+Crouch Idle 03 Looking Over.npy
+Great Sword Slide Attack.npy
+Standing 2H Magic Attack 01.npy
+Pick Fruit (1).npy
+Pouting.npy
+Catwalk Walk Start Turn 180 Right (2).npy
+Thriller Idle.npy
+Femme Peek Around Corner (1).npy
+Revealing Dice.npy
+Meia Lua De Frente.npy
+Knock Off Assailant.npy
+Walk Backwards.npy
+Baseball Pitching (1).npy
+Texting.npy
+Standing Torch Run Forward Stop At Edge.npy
+Northern Soul Floor Spin.npy
+Golf Chip (4).npy
+Great Sword Idle (4).npy
+Disarmed.npy
+Catwalk Walk Start Backwards 180R.npy
+Dwarf Idle (2).npy
+Unarmed Idle 01.npy
+Standing Death Left 02.npy
+Dying (4).npy
+Death From Front Headshot.npy
+Zombie Stand Up.npy
+Flying Knee Punch Combo.npy
+Burpee End.npy
+Charge.npy
+Golf Drive (3).npy
+Golf Putt (1).npy
+Swing Dancing (1).npy
+Laying (3).npy
+Breakdance Footwork 3.npy
+Stand To Roll.npy
+Crawl Forward.npy
+Hokey Pokey.npy
+Rifle Crouch Idle To Walk.npy
+Knee Jabs To Uppercut.npy
+Knocked Out (1).npy
+Esquiva 4.npy
+Walker Walk.npy
+Drunk Idle Variation.npy
+Femme Peek Around Corner.npy
