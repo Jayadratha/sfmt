@@ -17,6 +17,7 @@ from data_utils.amass_loader import AmassDataset
 from data_utils.rignet_loader import RignetDataset
 from data_utils.mixamo_loader_vivek import MixamoValidationDataset
 from models.networks import PerPartEncoderTpl, PerPartDecoder, HandlePredictorSWTpl
+from models.prior import aggregate_window
 from models.smpl import SMPL2Mesh
 from utils.training import LossManager
 from utils.pyrenderer import Renderer
@@ -83,15 +84,6 @@ def timed_iter(it, T):
                 return
         yield item
 
-
-def aggregate_window(window, agg, device):
-    """Aggregate the list of previous predicted-frame encodings, each [N, C] or [B, N, C]-like tensors."""
-    if agg == "avg":
-        return torch.mean(torch.stack(window), dim=0).data
-    ws = torch.tensor([2 ** i for i in range(len(window))], dtype=torch.float32)
-    ws = (ws / ws.sum()).to(device)
-    stacked = torch.stack(window, dim=0)
-    return torch.sum(stacked * ws.view(len(window), *([1] * (stacked.dim() - 1))), dim=0).data
 
 def visualize_data(vs, fs, save_path):
     renderer = Renderer(400)
@@ -337,7 +329,8 @@ def main():
                         "decoder": decoder.state_dict(),
                         "predictor": predictor.state_dict(),
                         "optimizer": optimizer.state_dict(),
-                        'torch_rnd': torch.get_rng_state(), 'numpy_rnd': np.random.get_state(), 'epoch': i_epoch}
+                        'torch_rnd': torch.get_rng_state(), 'numpy_rnd': np.random.get_state(), 'epoch': i_epoch,
+                        'window': args.window, 'agg': args.agg}      # read by demo.py to rebuild the prior
             epoch_done = (i_iter == n_iter - 1) or (bool(args.max_iters) and (i_iter + 1) >= args.max_iters)
             if (i_iter + 1) % args.ckpt_every == 0 or epoch_done:
                 checkpoint['mid_epoch'] = not epoch_done

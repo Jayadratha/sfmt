@@ -132,6 +132,30 @@ python tools/make_report_assets.py runs results             # regenerates result
 `train.py --help` lists all options (`--window`, `--agg`, `--seed`, `--max_iters`, `--val_every`, `--save_ply`, `--wandb`, ...).
 How the code was made ~4.7x faster and the schedule/reliability design: [`docs/PERFORMANCE.md`](docs/PERFORMANCE.md).
 
+## Demo
+
+Transfers a motion, given as a sequence of `.obj` frames, onto characters in rest pose. Download the demo data and the
+pretrained SFPT model from the [upstream demo link](https://drive.google.com/file/d/1k0Vg1N6xlLoPGG3Lrpa5Ly5ThLEqAmUg/view?usp=sharing)
+and unzip it in the repo root (it creates `demo/`). Layout: `demo/src_data/{rest.obj,0.obj,1.obj,...}`, `demo/dst_data/obj_remesh/<character>.obj`.
+
+```bash
+python demo.py                                                        # original SFPT checkpoint -> demo/results/<character>_<frame>.obj
+python demo.py --ckpt runs/avg_w5/latest.pth --window 5 --agg avg     # a checkpoint trained with train.py
+python demo_smpl.py [--ckpt ...]                                      # SMPL bodies (needs the SMPL-H files, SFMT_SMPLH_PATH)
+```
+
+- The original SFPT checkpoint has no prior input, so no window options are needed. Checkpoints written by the current
+  `train.py` record their `--window` / `--agg`. Older ones (such as the runs reported here) need them on the command line.
+- The frames are played in numeric order as **one continuous motion**, and every target character keeps its own memory of
+  its last predicted frames (the window prior). Put separate motions in separate folders.
+- Results are not bit-reproducible on the GPU. ARAP smoothing (on by default in `demo.py`, `--no-smooth` turns it off) runs an
+  optimiser that magnifies rounding differences, and even without it a few vertices can differ by up to 2e-3 between two
+  identical runs on some clips (mesh height is about 1). Without smoothing, a CPU run (`--device cpu`) is exactly repeatable.
+- How it was checked: with the original checkpoint, `demo.py` reproduces `demo/results_reference` to within 0.7% of the mesh size
+  (median 0.01%). Replaying validation clips through the demo code reproduces the meshes that `train.py` wrote for the same
+  checkpoint (1e-7 on most clips; on two of three tested clips a few vertices differ by up to 2e-3, the same size as the
+  difference between two identical GPU runs). `demo_smpl.py` transfers a bent arm between two SMPL bodies with the original checkpoint.
+
 ## What changed relative to the original code
 
 - One `train.py` replaces the per-experiment copies of the code; window size, aggregation, epochs, validation interval and seed are command-line options.
@@ -139,10 +163,11 @@ How the code was made ~4.7x faster and the schedule/reliability design: [`docs/P
 - Validation: per-pass accumulators (the original averaged over *all* validations so far), non-finite frames of a diverged rollout are skipped and counted.
 - Speed: sync-free per-graph operations, GPU farthest-point sampling, an exact reformulation of the first EdgeConv layer, a stateless data schedule with loader workers, no dead forward pass.
 - Data tools: Blender pipeline to rebuild the Mixamo motion data (`tools/`).
+- Demos: `demo.py` / `demo_smpl.py` share `demo_common.py` and `models/inference.py`, which handle both the original SFPT checkpoints and the ones with the prior input; the prior aggregation lives in `models/prior.py` and is used by training and demos alike. Checkpoints now record `--window` / `--agg`. `data_utils/custom_loader.py` is the original `.obj` loader (frames sorted numerically).
 
 ## Not tested / known gaps
 
-- `demo.py` / `demo_smpl.py` are inherited from SFPT and were **not** re-run in this fork (the decoder here takes an extra prior input).
+- The demos were run with the original SFPT checkpoint and with the checkpoints trained here, but the checkpoints trained here saw only 4 Mixamo characters, so their output on very different shapes (the demo creatures) was not evaluated, and `demo_smpl.py` was only run with a single source frame.
 - AMASS / RigNet / SMPL training paths are inherited and unused here (`prob=(0, 1, 0)` = Mixamo only).
 
 ## License, credits and citation
